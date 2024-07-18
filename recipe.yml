@@ -36,6 +36,7 @@ install:
   - admin_toolbar_links_access_filter
   # theme
   - gin
+  - gin_login
   - gin_toolbar
 config:
   import:
